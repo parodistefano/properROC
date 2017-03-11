@@ -2,7 +2,7 @@
 % Please edit documentation in R/ROCPlot.R
 \name{proproc}
 \alias{proproc}
-\title{Calculate the Coordinates of a Proper ROC Curve}
+\title{Calculate the Coordinates of a Proper ROC Curve (internal usage)}
 \usage{
 proproc(dor, npoints = 2001L)
 }

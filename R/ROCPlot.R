@@ -101,7 +101,7 @@ plotproper <- function(dor, color = "black") {
 # (make a theoretical curve from DOR) #
 #-------------------------------------#
 #
-#' @title Calculate the Coordinates of a Proper ROC Curve
+#' @title Calculate the Coordinates of a Proper ROC Curve (internal usage)
 #'
 #' @description Calculate the coordinates of a proper ROC curve
 #' from the corresponding Diagnostic Odds Ratio (DOR). Called by
